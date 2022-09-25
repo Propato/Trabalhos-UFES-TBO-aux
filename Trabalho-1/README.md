@@ -16,7 +16,7 @@ O foco deste trabalho é a eficiência, sendo realizadas medições de tempo e a
 
 ### Ferramentas utilizadas
 
-![Icone linguagem C](https://user-images.githubusercontent.com/84464307/192127831-3cbad648-e690-43c5-9772-c6db2d13641c.png)
+<img src="https://user-images.githubusercontent.com/84464307/192127831-3cbad648-e690-43c5-9772-c6db2d13641c.png" alt="Icone linguagem C" width="70"/>
 
 ### Comentários
 
